@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Prashanth Samkumar</h1>
-<h3 align="center">🚀 AI Engineer | NLP & LLM Enthusiast | Building AI for Bharath 🇮🇳</h3>
+<h3 align="center">🚀 AI Engineer | NLP & LLM Enthusiast </h3>
 
 ---
 
@@ -60,8 +60,8 @@ I love solving complex problems, tinkering with new tech, and turning research i
 ### 📬 Connect With Me  
 - 📧 Email: **prashanthsamkumar@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/prashanthsamkumar](https://linkedin.com/in/prashanthsamkumar)  
-- 💻 GitHub: [github.com/Mr-Prashanth](https://github.com/Mr-Prashanth)  
+- 💻 GitHub: [github.com/Mr-Prashanth](https://github.com/Prashanth-Samkumar)  
 
 ---
 
-⭐️ *"Building the future of AI, one model at a time."*  
+⭐️ *"Crafting smarter systems for a smarter world"*  
