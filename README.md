@@ -6,13 +6,13 @@
 ### 🌟 About Me
 I’m a curious and driven **AI & Data Science undergrad** at Shiv Nadar University, Chennai, passionate about exploring the cutting edge of **Large Language Models (LLMs)**, **AI Agents**, and **Retrieval-Augmented Generation (RAG)**.  
 
-💡 My goal is to make **AI accessible, multilingual, and impactful** — especially for **Indian languages** through the *AI for Bharath* initiative.  
-I love solving complex problems, tinkering with new tech, and turning research ideas into practical, real-world applications.  
+💡 My goal is to build **scalable and impactful AI systems** that make technology more **accessible, intelligent, and practical**.  
+I love solving complex problems, tinkering with new tools, and turning research ideas into real-world applications.  
 
 ---
 
 ### 🔭 Current Focus
-- 🧠 **LLMs & NLP** – building scalable pipelines and multilingual models  
+- 🧠 **LLMs & NLP** – scalable pipelines and multilingual models  
 - 🤖 **AI Agents** – autonomous systems powered by reasoning and retrieval  
 - 📑 **RAG & Knowledge Systems** – context-aware information retrieval  
 - 🌐 **Generative AI Applications** – AI-powered products with real-world impact  
