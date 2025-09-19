@@ -85,4 +85,4 @@ I love solving complex problems, tinkering with new tools, and turning research 
 
 ---
 
-⭐️ *"Crafting smarter systems for a smarter world"*  
+⭐️ *"Built the Hanma way."*  
