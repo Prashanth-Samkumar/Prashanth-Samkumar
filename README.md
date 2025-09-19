@@ -1,18 +1,59 @@
 <h1 align="center">Hi 👋, I'm Prashanth Samkumar</h1>
-<h3 align="center">A passionate AI Engineer</h3>
+<h3 align="center">AI Engineer | NLP & LLMs | Building AI for Bharath 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanth-samkumar&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth-samkumar" /> </p>
-
-- 🔭 I’m currently working on [VectraPDF](https://github.com/Prashanth-Samkumar/Persona-Driven-Document-Intelligence-Engine.git)
-
-- 💬 Ask me about **LLM, AI agents and NLP**
-
-- 📫 How to reach me **prashanthsamkumar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prashanth samkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanth samkumar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Prashanth&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me  
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** @ Shiv Nadar University (CGPA: 8.3/10)  
+- 🔭 Currently working on: [**VectraPDF**](https://github.com/Mr-Prashanth/Persona-Driven-Document-Intelligence-Engine.git) – A persona-driven document intelligence engine  
+- 💡 Interests: **LLMs, AI Agents, RAG, Multilingual NLP**  
+- 🌱 Exploring: **Indian Language LLMs** under *AI for Bharath* initiative  
+- 💬 Ask me about: **LLMs, RAG, AI Agents, NLP**  
+- 📫 Reach me at: **prashanthsamkumar@gmail.com**  
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,react,docker,git,github,mysql,mongodb,postgres,redis,aws,nginx,linux,figma" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" />
+</p>
+
+---
+
+### 🔥 Featured Projects  
+- 📑 **[VectraPDF](https://github.com/Mr-Prashanth/Persona-Driven-Document-Intelligence-Engine.git)**  
+  *Persona-driven RAG pipeline for document intelligence with Pinecone, LangChain & Groq LLM*  
+
+- 🎓 **[StudIQ](https://github.com/Mr-Prashanth/StudIQ.git)**  
+  *AI-powered LMS for course-specific Q&A using RAG with HuggingFace + FAISS*  
+
+- 🛒 **[Odyssey](https://github.com/Mr-Prashanth/Odyssey.git)**  
+  *Full-stack e-commerce platform with React + FastAPI & Razorpay payments*  
+
+- 📘 **[QuantumEd](https://github.com/Mr-Prashanth/QuantumEd.git)**  
+  *AI-powered EdTech system using Google Cloud Vision API for hands-on learning recommendations*  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Prashanth&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Prashanth&theme=tokyonight" alt="streaks" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/prashanthsamkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://github.com/Mr-Prashanth" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+---
+⭐️ From [Prashanth Samkumar](https://github.com/Mr-Prashanth)
