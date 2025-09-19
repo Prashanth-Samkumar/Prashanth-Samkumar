@@ -22,30 +22,16 @@ I love solving complex problems, tinkering with new tech, and turning research i
 ### 🛠️ Tech Stack  
 
 #### ⚡ AI & Machine Learning  
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>  
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface"/>  
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain"/>  
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>  
-</p>  
+- PyTorch, Transformers, HuggingFace, LangChain, RAG, TensorFlow, Scikit-learn  
 
 #### 💻 Backend & Systems  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,redis" height="40"/>  
-</p>  
+- Python, FastAPI, Flask, REST API, Redis, Docker  
 
 #### 🗄️ Databases & Infra  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws" height="40"/>  
-  <img src="https://avatars.githubusercontent.com/u/102935510?s=200&v=4" height="40" alt="pinecone"/>  
-  <img src="https://skillicons.dev/icons?i=nginx" height="40"/>  
-</p>  
+- MySQL, PostgreSQL, Pinecone, MongoDB, AWS (S3), Nginx  
 
 #### 🌐 Others  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,react,html,css" height="40"/>  
-</p>  
+- Git/GitHub, Linux, Figma, React, HTML/CSS  
 
 ---
 
@@ -77,6 +63,17 @@ I love solving complex problems, tinkering with new tech, and turning research i
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashanth-Samkumar&theme=tokyonight" alt="summary"/>  
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Prashanth-Samkumar&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>  
+</p>
+
+---
+
+### 🖼️ Tech Stack Logos  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,redis" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,nginx,git,github,linux,figma,react,html,css" height="40"/>  
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface"/>  
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain"/>  
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="40" alt="pinecone"/>  
 </p>
 
 ---
