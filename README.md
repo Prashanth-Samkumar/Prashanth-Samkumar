@@ -20,39 +20,63 @@ I love solving complex problems, tinkering with new tech, and turning research i
 ---
 
 ### 🛠️ Tech Stack  
+
 #### ⚡ AI & Machine Learning  
-- PyTorch | Transformers | LangChain | RAG | HuggingFace | TensorFlow | Scikit-learn  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>  
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface"/>  
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain"/>  
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>  
+</p>  
 
 #### 💻 Backend & Systems  
-- Python | FastAPI | Flask | REST API | Redis | Docker  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,redis" height="40"/>  
+</p>  
 
 #### 🗄️ Databases & Infra  
-- MySQL | PostgreSQL | Pinecone | MongoDB | AWS (S3) | Nginx  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws" height="40"/>  
+  <img src="https://avatars.githubusercontent.com/u/102935510?s=200&v=4" height="40" alt="pinecone"/>  
+  <img src="https://skillicons.dev/icons?i=nginx" height="40"/>  
+</p>  
 
 #### 🌐 Others  
-- Git/GitHub | Linux | Figma | React | HTML/CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,react,html,css" height="40"/>  
+</p>  
 
 ---
 
 ### 🌟 Highlight Projects
-- 📑 **[VectraPDF](https://github.com/Mr-Prashanth/Persona-Driven-Document-Intelligence-Engine.git)**  
+- 📑 **[VectraPDF](https://github.com/Prashanth-Samkumar/Persona-Driven-Document-Intelligence-Engine.git)**  
    Persona-driven RAG pipeline for document intelligence with Pinecone & Groq LLM  
 
-- 🎓 **[StudIQ](https://github.com/Mr-Prashanth/StudIQ.git)**  
+- 🎓 **[StudIQ](https://github.com/Prashanth-Samkumar/StudIQ.git)**  
    AI-powered LMS that answers course-specific queries using HuggingFace + FAISS  
 
-- 🛒 **[Odyssey](https://github.com/Mr-Prashanth/Odyssey.git)**  
+- 🛒 **[Odyssey](https://github.com/Prashanth-Samkumar/Odyssey.git)**  
    Full-stack e-commerce app with React + FastAPI & secure Razorpay integration  
 
-- 📘 **[QuantumEd](https://github.com/Mr-Prashanth/QuantumEd.git)**  
+- 📘 **[QuantumEd](https://github.com/Prashanth-Samkumar/QuantumEd.git)**  
    AI-powered EdTech system recommending hands-on projects with Google Vision API  
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Prashanth&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Prashanth&theme=tokyonight" alt="streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth-Samkumar&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth-Samkumar&theme=tokyonight" alt="streaks" />
+</p>
+
+---
+
+### 📈 Activity & Visitors  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashanth-Samkumar&theme=tokyonight" alt="summary"/>  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Prashanth-Samkumar&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>  
 </p>
 
 ---
@@ -60,7 +84,7 @@ I love solving complex problems, tinkering with new tech, and turning research i
 ### 📬 Connect With Me  
 - 📧 Email: **prashanthsamkumar@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/prashanthsamkumar](https://linkedin.com/in/prashanthsamkumar)  
-- 💻 GitHub: [github.com/Mr-Prashanth](https://github.com/Prashanth-Samkumar)  
+- 💻 GitHub: [github.com/Prashanth-Samkumar](https://github.com/Prashanth-Samkumar)  
 
 ---
 
